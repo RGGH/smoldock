@@ -18,6 +18,7 @@ The system is designed to produce **structured financial hardship advice** by re
   <br>
   <em>Click the image above to watch the demo ▶️</em>
 </p>
+[![YouTube](https://img.shields.io/badge/YouTube-Watch_Demo-red?logo=youtube&logoColor=white)](https://youtu.be/7kmfSxv1Sbk)
 ---
 
 ## 🔧 What It Does
