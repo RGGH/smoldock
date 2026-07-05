@@ -1,0 +1,58 @@
+# =========================
+# Python cache / bytecode
+# =========================
+__pycache__/
+*.py[cod]
+*.pyo
+
+# =========================
+# Build / packaging
+# =========================
+build/
+dist/
+*.egg-info/
+wheels/
+
+# =========================
+# Virtual environments
+# =========================
+.venv/
+venv/
+env/
+
+# =========================
+# IDE / editor (optional)
+# =========================
+.vscode/
+.idea/
+
+# =========================
+# Project-specific runtime data
+# =========================
+qdrant_storage/
+*.sqlite
+*.db
+
+# =========================
+# Logs / outputs
+# =========================
+output.md
+*.log
+
+# =========================
+# Python tooling
+# =========================
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# =========================
+# OS junk
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Lock files (optional choice)
+# =========================
+# uv.lock   # uncomment ONLY if you don't want deterministic installs tracked
