@@ -128,8 +128,8 @@ model = LiteLLMModel(
 agent = CodeAgent(
     tools=[QdrantQueryTool()],
     model=model,
-    max_steps=8,
-    v,
+    max_steps=5,
+    verbosity_level=LogLevel.DEBUG
 )
 
 if __name__ == "__main__":
