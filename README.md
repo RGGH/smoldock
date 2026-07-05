@@ -1,4 +1,3 @@
-```markdown
 # SmolAgents + Qdrant Financial Advice RAG Agent
 
 This project is a small retrieval-augmented agent built with:
@@ -209,4 +208,3 @@ This system is for experimental and educational purposes. It is not a substitute
 
 MIT 
 
-```
