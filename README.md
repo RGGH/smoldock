@@ -11,9 +11,13 @@ This project is a small retrieval-augmented agent built with:
 
 The system is designed to produce **structured financial hardship advice** by retrieving small, focused knowledge fragments and then synthesising them into an actionable plan.
 
-Demonstration video on YouTube:
-
-[![Watch the video](https://img.youtube.com/vi/7kmfSxv1Sbk/0.jpg)](https://youtu.be/7kmfSxv1Sbk)
+<p align="center">
+  <a href="https://youtu.be/7kmfSxv1Sbk">
+    <img src="https://img.youtube.com/vi/7kmfSxv1Sbk/maxresdefault.jpg" width="600" alt="Demo video thumbnail — click to watch on YouTube">
+  </a>
+  <br>
+  <em>Click the image above to watch the demo ▶️</em>
+</p>
 ---
 
 ## 🔧 What It Does
