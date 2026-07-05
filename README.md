@@ -1,6 +1,6 @@
-# SmolAgents + Qdrant Financial Advice* RAG Agent
+# SmolAgents + Qdrant [Financial Advice* RAG Agent]
 
-(*example, not to be used as actual financial advice)
+*not to be used as actual financial advice
 
 This project is a small retrieval-augmented agent built with:
 
